@@ -49,6 +49,7 @@ export default function Skills() {
                   </p>
                 );
               })}
+              <a href="https://henry-comics.vercel.app/">E-Commerce Deploy</a>
             </div>
           </div>
         </Fade>
