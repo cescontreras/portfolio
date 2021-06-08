@@ -50,6 +50,8 @@ export default function Skills() {
                 );
               })}
               <a href="https://henry-comics.vercel.app/">E-Commerce Deploy</a>
+              <br></br>
+              <a href="https://usla-market.web.app/">Real Estate Deploy</a>
             </div>
           </div>
         </Fade>
