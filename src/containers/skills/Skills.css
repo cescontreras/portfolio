@@ -55,6 +55,7 @@
     text-align: center;
   }
   .skills-image-div {
+		padding: 0;
     /* display: none; */
     order: 2;
   }
