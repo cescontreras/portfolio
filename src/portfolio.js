@@ -128,8 +128,16 @@ const techStack = {
 // Your top 3 work experiences
 
 const workExperiences = {
-  viewExperiences: false, //Set it to true to show workExperiences Section
+  viewExperiences: true, //Set it to true to show workExperiences Section
   experience: [
+    {
+      company: "Agilika",
+      desc: "Web Apps development and maintenance on VueJs, NuxtJs, Firebase and NodeJs",
+      date: "Jan 2021 - Today",
+      companylogo: require("./assets/images/Logo2Agilika.jpg"),
+      role: "Full Stack Developer",
+      // descBullets: []
+  }
    
   ]
 };
